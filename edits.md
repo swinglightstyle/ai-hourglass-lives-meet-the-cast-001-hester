@@ -21,14 +21,14 @@ The statements keep their numbers from the test, so the gaps show in the transcr
 
 ## Hidden words
 
-35 words were hidden. Each is shown in the transcript as a row of blocks (■), one block for each letter, exactly as the video shows it. In the video the voice says "ahem" where a hidden word falls, with a short pause before it and after it, so the line carries on like a held-back sneeze.
+35 words were hidden. Each is shown in the transcript as a row of solid blocks, one block for each letter, exactly as the video shows it. In the video the voice says "ahem" where a hidden word falls, with a short pause before it and after it, so the line carries on like a held-back sneeze.
 
 - The words were chosen by Beth: a short list of plainly explicit words, matched as whole words in any capital letters. They fall into 3 groups, and the groups account for 32, 2 and 1 of the 35.
 - All 35 of them are in Beth's lines (the test's statements), spread over 31 of the 61 questions. None are in Hester's answers.
 - The voice reads the text exactly as it is shown here.
 - The words themselves are not listed, on purpose.
 
-## A phrase taken out of answers
+## Text taken out of answers
 
 In 25 of Hester's 61 answers, the repeated "Have you eaten?" question was taken out, in every form it took. The rest of each answer is untouched.
 
