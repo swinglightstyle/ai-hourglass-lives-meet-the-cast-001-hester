@@ -4,7 +4,7 @@ Episode 1 of **Meet the Cast**, the first series of **AI Hourglass Lives**: a pu
 
 AI is involved at every step of this show. See "How AI was used" below.
 
-Video: link to come.
+Video: https://youtu.be/_0SfVXv4Sak
 
 ## This episode
 
@@ -19,7 +19,7 @@ Hester's answers are real text, written by the AI companion in a real interview,
 - 35 words are hidden, as blocks in the text and as "ahem" in the voice.
 - Before 30 of Hester's 61 answers the video places a short breath (17 times) or a drawn-out "Well..." or "So..." (13 times). They are marked in transcript.jsonl and are not part of the text.
 - While Beth speaks the video shows her own portrait, and while Hester speaks, Hester's. transcript.jsonl gives the expression on screen for every line ("portrait"), whose portrait it is ("portrait_of") and when it comes in ("portrait_from").
-- The video closes on a picture of Hester's test results. The picture is graphics, so it is not published here, and her scores are not in this repository.
+- The video closes on a picture of Hester's test results. The picture is graphics, so it is not published here, and the scores are not in this repository.
 
 ## How AI was used
 
